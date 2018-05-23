@@ -17,7 +17,7 @@ My expertise includes:
 * Design Thinking
 * Process Managment
 * Lean Management, Design Sprint and Lean Startup
-* Blogger
+* Blogger en [The Manager Way] (www.themanagerway.com)
 
 Industry Experience:
 - E-Government
@@ -26,3 +26,6 @@ Industry Experience:
 - Bank
 - Marketing Digital
 - Academic Events
+
+Si quieres saber más me puedes seguir en mi [LinkedIn] (www.linkedin.com/in/pilargarciaechevarria) y en mi [twitter] (https://twitter.com/pilycita) :heart_eyes:  
+
