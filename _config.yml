@@ -2,5 +2,4 @@ title: Pilar García Echevarría
 
 theme: jekyll-theme-architect
 
-gems:
--jemoji
+gems: jemoji
