@@ -1,27 +1,27 @@
 # Pilar García Echevarría
 
-Systems Engineer specialized in Project Management with more than 4 and a half years experience at IT project management in small, medium and big projects throughout the life cycle of the project / Blogger/ food photographer/ drummer  :bowtie:
+Ingeniera de Sistemas y Computación especializada en Gestión de proyectos con más de 5 años de experiencia en proyectos de Tecnología y Desarrollo de software, proyectos pequeños, medianos y grandes y a través de todo su ciclo de vida/ Blogger/ fotógrafa de comida/ baterista/ compradora compulsiva / Amante de los gatos  :bowtie:
 
-Industry Experience:
+Áreas de experiencia:
 - E-Government
-- Telecomm
-- Financial
-- Bank
+- Telecomunicaciones
+- Financiera
+- Banco
 - Marketing Digital
-- Academic Events
+- Eventos Académicos
 
-SKILLS: 
-IT Project Management, Strategic planning, Efective Communication, Presentations, leadership and motivation, Continuos Improvement, focus on client. . :wink:  
+Skills: 
+Gestión de proyectos de TI, Planificación estratégica, Comunicación efectiva, Exposiciones y ponencias, Investigaciones, Liderazgo y motivación, Mejora continua, enfoque en el cliente y en el equipo. . :wink:  
 
-My expertise includes:
+Mi experiencia incluye:
 
-* Functional Analist
-* Project Management Experience with Waterfall (PMP) & Agile methodologies (SMC)
-* Adaptation to Best practice and Standars 
+* Análisis Funcional
+* Gestión de proyectos: Cascada (PMP) y Metodologías Ágiles (SMC)
+* Adaptación al cambio en innovación de mejores prácticas y estándares
 * ITILv3
 * COBIT 5
 * Design Thinking
-* Process Managment
+* Gestión de procesos
 * Lean Management, Design Sprint and Lean Startup
 * Blogger en [The Manager Way](www.themanagerway.com)
 
