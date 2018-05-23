@@ -1,6 +1,6 @@
 # Pilar García Echevarría
 
-Ingeniera de Sistemas y Computación especializada en Gestión de proyectos con más de 5 años de experiencia en proyectos de Tecnología y Desarrollo de software, proyectos pequeños, medianos y grandes y a través de todo su ciclo de vida/ Blogger/ fotógrafa de comida/ baterista/ compradora compulsiva / Amante de los gatos  :bowtie:
+Ingeniera de Sistemas y Computación especializada en Gestión de proyectos con más de 5 años de experiencia en proyectos de Tecnología y Desarrollo de software, proyectos pequeños, medianos y grandes a través de todo su ciclo de vida/ Blogger/ fotógrafa de comida/ baterista/ compradora compulsiva / Amante de los gatos  :bowtie:
 
 Áreas de experiencia:
 - E-Government
