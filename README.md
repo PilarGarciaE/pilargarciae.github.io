@@ -29,3 +29,5 @@ My expertise includes:
 Si quieres saber más me puedes seguir en mi [LinkedIn](www.linkedin.com/in/pilargarciaechevarria)
 Y en mi [twitter](https://twitter.com/pilycita) :heart_eyes:  
 
+![GitHub Logo](/pictures/ojo.png)
+Format: ![Alt Text](url)
