@@ -42,7 +42,7 @@ Industry Experience:
 - Academic Events
 
 Skills: 
-IT Project Management, Strategic planning, Efective Communication, Presentations, Investigations, leadership and motivation, Continuous Improvement, focus on client an team. :wink:  
+IT Project Management, Strategic planning, Effective Communication, Presentations, Investigations, leadership and motivation, Continuous Improvement, focus on client and team. :wink:  
 
 My expertise includes:
 
