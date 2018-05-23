@@ -1,4 +1,4 @@
-# Pilar García Echevarría
+# Academic Bio
 
 Ingeniera de Sistemas y Computación especializada en Gestión de proyectos con más de 5 años de experiencia en proyectos de Tecnología y Desarrollo de software, proyectos pequeños, medianos y grandes a través de todo su ciclo de vida/ Blogger/ fotógrafa de comida/ baterista/ compradora compulsiva / Amante de los gatos  :bowtie:
 
@@ -29,7 +29,7 @@ Mi experiencia incluye:
 Si quieres saber más me puedes seguir en mi [LinkedIn](www.linkedin.com/in/pilargarciaechevarria)
 Y en mi [twitter](https://twitter.com/pilycita) :heart_eyes:  
 
-# Pilar García Echevarría 
+# Academic Bio
 
 Systems Engineer specialized in Project Management with more than 5 years experience at IT project in small, medium and big projects throughout the life cycle of the project / Blogger/ food photographer/ drummer/ Shopaholic / Cat lover  :bowtie:
 
