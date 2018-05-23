@@ -46,7 +46,7 @@ IT Project Management, Strategic planning, Effective Communication, Presentation
 
 My expertise includes:
 
-* Functional Analist
+* Functional Analyst
 * Project Management Experience with Waterfall (PMP) & Agile methodologies (SMC)
 * Change Adaptation at innovation on best practice and Standars 
 * ITILv3
@@ -60,5 +60,4 @@ My expertise includes:
 Follow me on [LinkedIn](www.linkedin.com/in/pilargarciaechevarria)
 And on [twitter](https://twitter.com/pilycita) :heart_eyes:  
 
-![GitHub Logo](/pictures/ojo.png)
-Format: ![Alt Text](url)
+
