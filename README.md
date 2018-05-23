@@ -48,11 +48,11 @@ My expertise includes:
 
 * Functional Analyst
 * Project Management Experience with Waterfall (PMP) & Agile methodologies (SMC)
-* Change Adaptation at innovation on best practice and Standars 
+* Change Adaptation at innovation on best practice and Standards 
 * ITILv3
 * COBIT 5
 * Design Thinking
-* Process Managment
+* Process Management
 * Lean Management, Design Sprint and Lean Startup
 * Blogger en [The Manager Way](www.themanagerway.com)
 
