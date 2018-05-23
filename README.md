@@ -31,7 +31,7 @@ Y en mi [twitter](https://twitter.com/pilycita) :heart_eyes:
 
 # Pilar García Echevarría 
 
-Systems Engineer specialized in Project Management with more than 4 and a half years experience at IT project in small, medium and big projects throughout the life cycle of the project / Blogger/ food photographer/ drummer/ Shopaholic / Cat lover  :bowtie:
+Systems Engineer specialized in Project Management with more than 5 years experience at IT project in small, medium and big projects throughout the life cycle of the project / Blogger/ food photographer/ drummer/ Shopaholic / Cat lover  :bowtie:
 
 Industry Experience:
 - E-Government
