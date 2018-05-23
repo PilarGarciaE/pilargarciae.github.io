@@ -17,7 +17,7 @@ My expertise includes:
 * Design Thinking
 * Process Managment
 * Lean Management, Design Sprint and Lean Startup
-* Blogger en [The Manager Way] (www.themanagerway.com)
+* Blogger en [The Manager Way](www.themanagerway.com)
 
 Industry Experience:
 - E-Government
